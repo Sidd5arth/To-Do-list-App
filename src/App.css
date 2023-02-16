@@ -1,0 +1,61 @@
+@font-face {
+  font-family: MonumentExtended;
+  src: url(./Fonts/MonumentExtendedRegular.otf);
+}
+@font-face {
+  font-family: Geometrix-regular;
+  src: url(./Fonts/GTWalsheimPro-Regular.woff);
+}
+@font-face {
+  font-family: Geometrix-medium;
+  src: url(./Fonts/GTWalsheimPro-Medium.woff);
+}
+.text-style1{
+  font-family: Geometrix-regular;
+  font-size: medium;
+  /* padding-right: 10em; */
+}
+.text-style{
+  font-family: MonumentExtended;
+  /* padding-right: 10em; */
+}
+.text-style2{
+  font-family: Geometrix-medium;
+  font-size: medium;
+  padding-right: 10em;
+}
+.App {
+  text-align: center;
+  max-width: 24rem;
+  margin: 0 auto;
+  background-color: rgb(245, 242, 82);
+  padding: 2em;
+  border-radius: 1.2em;
+  box-shadow: 8px 8px 0px #535353f3;
+  height: 35em;
+}
+.input-styles{
+  border: 0.08em solid  grey;
+  /* filter:drop-shadow(5px 5px 0px #888fe2) */
+}
+.button-styles{
+  border-radius: 0.5em;
+  border: 0.08em solid  grey;
+  box-shadow: 4px 4px 0px #8ee288;
+  background-color: rgb(255, 255, 255);
+}
+.button-styles:active{
+  box-shadow: 2px 2px 0px #4bb343;
+  transform: translateY(2px);
+}
+img{
+  width: 2em;
+  height: 2em;
+}
+li{
+  list-style: none;
+}
+.ul-style{
+  height: 17em;
+  overflow: scroll;
+}
