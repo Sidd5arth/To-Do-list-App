@@ -1,6 +1,21 @@
 .edit-styles{
+    display: flex;
+    flex-direction: row;
+    gap: 1em;
     width: 18em;
     position: absolute;
-    margin: 0 auto;
+    left: 4em;
     border: 3px solid rgb(98, 245, 98);    
 }
+.styles1{
+    padding: 2em;
+    border: 0.1em solid  grey;
+    box-shadow: 5px 5px 0px #868ee8;
+    border-radius: 0.5em;
+    background-color: aliceblue;
+  }
+  .edit-stl{
+    position: absolute;
+    top: 50%;
+    left: -1%;
+  }

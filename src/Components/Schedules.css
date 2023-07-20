@@ -1,4 +1,5 @@
 .styles{
+    padding: 1em;
     border: 0.1em solid  grey;
     box-shadow: 5px 5px 0px #868ee8;
     border-radius: 0.5em;
@@ -6,4 +7,18 @@
 .styles1{
     border: 0.1em solid  grey;
     border-radius: 0.5em;
+}
+.scheduler-style{
+    background-color: rgb(255, 255, 255);
+    width: 100%;
+    padding: 0.5em 2em;
+    margin: 0em;
+    border-radius: 0.5em;
+}
+.scheduler-button{
+    display: flex;
+    gap: 1em;
+}
+.button-styles{
+    padding: 0.2em;
 }

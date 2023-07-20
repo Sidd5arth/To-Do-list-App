@@ -52,14 +52,13 @@ function App() {
           value={input}
           onChange={taskHandler}
           />
-          <button className="ms-2 button-styles" onClick={clickHandler}>
+          <button className="button-styles" onClick={clickHandler}>
            <img src={plus}alt='add-task'/>
           </button> 
       </div>
       
-      <ul className='my-3 px-3 py-3 bg-light styles'>
+      <ul className='ul-style'>
         <p className='text-style1 m-0'><b>Your Todays's Tasks ...</b></p>
-        <div className='ul-style p-2 my-2 mx-0'>
       {
         items.map((val) => {
           return (
@@ -74,7 +73,6 @@ function App() {
           )
         })
       }
-      </div>
       </ul>
     </div>
   );

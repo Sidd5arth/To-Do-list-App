@@ -19,8 +19,8 @@ const EditTask = (props) => {
 
     
   return ( 
-    <div>
-      <div className="edit-styles form d-flex flex-row m-0 shadow-lg styles1 p-3 bg-light">
+    <div className='edit-stl'>
+      <div className="edit-styles styles1">
       <input 
           type="text" 
           className="form-control form-input p-2 me-3 input-styles text-style2" 
