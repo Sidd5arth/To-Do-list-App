@@ -1,8 +1,7 @@
 Implimented Neubrutalism UI
 User can perform CURD in this to-do list app
 
-https://github.com/Sidd5arth/To-Do-list-App/assets/88337830/18f58ad4-fecd-4167-8a35-98c73d51c12c
-Uploading yel.mp4…
+https://github.com/Sidd5arth/To-Do-list-App/assets/88337830/e88a016b-afe3-4f15-9852-7bf1a9636609
 
 
 # Getting Started with Create React App
