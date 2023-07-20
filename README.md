@@ -1,3 +1,10 @@
+Implimented Neubrutalism UI
+User can perform CURD in this to-do list app
+
+https://github.com/Sidd5arth/To-Do-list-App/assets/88337830/18f58ad4-fecd-4167-8a35-98c73d51c12c
+Uploading yel.mp4…
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
