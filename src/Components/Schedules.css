@@ -14,6 +14,9 @@
     padding: 0.5em 2em;
     margin: 0em;
     border-radius: 0.5em;
+    overflow: scroll;
+    scrollbar-width: none; 
+    scroll-behavior: smooth;
 }
 .scheduler-button{
     display: flex;
@@ -21,4 +24,10 @@
 }
 .button-styles{
     padding: 0.2em;
+}
+.scheduler-container{
+    width: 11em;
+    overflow: scroll;
+    scroll-behavior: smooth;
+    overflow: hidden;
 }

@@ -20,7 +20,9 @@ const Schedules = (props) => {
     <div>
       {modal && <EditTask toggle = {toggleModal} value={props.value} id={props.id} onSaveInput={editHandler}/>}
       <div class="styles">
-        <p class='scheduler-style'>{props.value}</p>
+        <div className='scheduler-container'>
+          <p class='scheduler-style'>{props.value}</p>
+        </div>
          <div class='scheduler-button'>
            
             <button className='button-styles'

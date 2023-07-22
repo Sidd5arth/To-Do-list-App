@@ -68,9 +68,6 @@ li{
   overflow: scroll;
   scrollbar-width: none; 
   scroll-behavior: smooth;
-  scrollbar-color: yellow;
-  scrollbar-width: 0.5em;
-  scrollbar-color: yellow;
   overflow-x: hidden;
   border-radius: 0.5em;
   padding-top: 0.5em;
