@@ -1,3 +1,12 @@
+Implimented Neubrutalism UI
+User can perform CURD in this to-do list app
+I know the scroll-bars could be better😅😁
+
+LIVE-APP - https://todoappneubrutalism.vercel.app/
+
+https://github.com/Sidd5arth/To-Do-list-App/assets/88337830/e88a016b-afe3-4f15-9852-7bf1a9636609
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
