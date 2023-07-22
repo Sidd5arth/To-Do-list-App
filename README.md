@@ -1,5 +1,6 @@
 Implimented Neubrutalism UI
 User can perform CURD in this to-do list app
+I know the scroll-bars could be better😅😁
 
 https://github.com/Sidd5arth/To-Do-list-App/assets/88337830/e88a016b-afe3-4f15-9852-7bf1a9636609
 
