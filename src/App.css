@@ -66,6 +66,18 @@ li{
   margin-top: 1.4em;
   height: 20em;
   overflow: scroll;
+  scrollbar-width: none; 
+  scroll-behavior: smooth;
+  scrollbar-color: yellow;
+  scrollbar-width: 0.5em;
+  scrollbar-color: yellow;
+  overflow-x: hidden;
+  border-radius: 0.5em;
+  padding-top: 0.5em;
+  outline: 0.001em solid black;
+  box-shadow: 1px 10px 40px -60px rgba(108,95,40,0.74) inset;
+  -webkit-box-shadow: 1px 10px 40px -60px rgba(108,95,40,0.74) inset;
+  -moz-box-shadow: 1px 10px 40px -60px rgba(108,95,40,0.74) inset;
 }
 .styles{
   display: flex;
@@ -77,3 +89,4 @@ li{
   margin: 1em;
   padding: 0px;
 }
+
