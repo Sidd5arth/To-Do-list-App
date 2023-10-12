@@ -1,6 +1,5 @@
 Implimented Neubrutalism UI
 User can perform CURD in this to-do list app
-I know the scroll-bars could be better😅😁
 
 LIVE-APP - https://todoappneubrutalism.vercel.app/
 
